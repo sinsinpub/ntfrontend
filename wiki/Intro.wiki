@@ -56,7 +56,7 @@ ndstool目前版本为2007/10编译的v1.36，网上流行版本为v1.31，目�
  * [http://sinblog.512j.com/pmwiki/index.php/OLData/NTFrontend]
 或者
 [http://sin-sin.ys168.com] (pw=nb)
- * [http://pickup.mofile.com/8007600767467049|Mofile下载(v1.70)]
+ * [http://pickup.mofile.com/8007600767467049 Mofile下载(v1.70)]
 
 
 ==NTFrontend更新日志==
