@@ -4,7 +4,6 @@
 =NDS rom tool Frontend (NTFrontend) v1.70=
  * Attach:NTFrontend.png by sin_sin
  * Latestly built on 2007-12-7
- * Attach:ntfront_screenshot.png
 http://sinblog.512j.com/up/1197025516.png
 
 ==关于ndstool和NTFrontend==
